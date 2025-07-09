@@ -44,3 +44,30 @@
 | Utilities   | Axios, Multer, Chart.js, Recharts, Postman       |
 
 ---
+
+## 🚀 Getting Started
+
+### 1️⃣ Clone the Repository
+https://github.com/ShresthGarg7/EduTrack.git
+
+### 2️⃣ Backend Setup
+cd EduTrack/Backend
+npm install
+
+### 3️⃣ Frontend Setup
+cd EduTrack/FrontEnd
+npm install
+npm start
+
+---
+
+📄 License
+This project is licensed under the MIT License © 2025 [Shresth Garg].
+
+---
+
+Let me know if you want:
+- Markdown file (`README.md`) download version,
+- GitHub profile/organization formatting help,
+- Deployment instructions for Vercel/Render/Glitch,
+- Or live demo badge & link formatting!
